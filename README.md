@@ -2,4 +2,5 @@
 =========================
 #깃허브 사용법을 알아봅시다.
 
-![사진](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/1200px-Pornhub-logo.svg.png)
+![my-icon (1)](https://user-images.githubusercontent.com/80080046/110879934-2dc55a80-8321-11eb-9d20-60f963864048.png)
+
